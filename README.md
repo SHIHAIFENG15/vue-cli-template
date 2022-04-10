@@ -1,4 +1,6 @@
-# fan_project
+# Vue脚手架模板
+
+包括基本配置，以及vuex和vuerouter的引入，作为以后项目前端开发通用模板。
 
 ## Project setup
 ```
@@ -15,5 +17,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
